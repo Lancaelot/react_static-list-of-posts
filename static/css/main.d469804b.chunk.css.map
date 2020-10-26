@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,MACE,aAAc,CACd,oBAAqB","file":"main.d469804b.chunk.css","sourcesContent":["// styles go here\r\n.post {\r\n  display: block;\r\n  border: 1px solid red;\r\n}\r\n"]}
